@@ -1,0 +1,21 @@
+Product_ID,Product_Name,Category,Current_Stock,Reorder_Level,Monthly_Sales_Avg,Supplier_Name,Lead_Time_Days,Last_Ordered_Date
+P001,Laptop,Peripherals,38,34,17,GadgetWorld,14,2025-02-15
+P002,Smartphone,Peripherals,123,13,38,GadgetWorld,6,2025-04-12
+P003,Headphones,Peripherals,29,31,21,ElectroMart,14,2025-03-13
+P004,Keyboard,Electronics,52,45,33,SupplyHub,13,2025-04-06
+P005,Mouse,Electronics,41,37,24,ElectroMart,10,2025-04-03
+P006,Printer,Electronics,116,39,11,SupplyHub,9,2025-03-10
+P007,Monitor,Peripherals,49,22,20,GadgetWorld,12,2025-02-11
+P008,Webcam,Electronics,92,10,17,GadgetWorld,15,2025-02-21
+P009,Router,Accessories,17,30,15,TechSource,7,2025-03-07
+P010,Tablet,Peripherals,64,28,8,SupplyHub,10,2025-03-23
+P011,Smartwatch,Peripherals,92,44,11,GadgetWorld,9,2025-03-05
+P012,Charger,Accessories,85,30,27,ElectroMart,11,2025-03-08
+P013,USB Cable,Electronics,74,22,9,TechSource,14,2025-04-17
+P014,External HDD,Peripherals,44,45,25,GadgetWorld,5,2025-01-30
+P015,Speakers,Accessories,23,44,37,TechSource,8,2025-02-25
+P016,Graphics Card,Accessories,150,10,26,TechSource,9,2025-03-05
+P017,RAM Module,Peripherals,91,16,36,GadgetWorld,5,2025-04-11
+P018,Power Bank,Accessories,23,31,18,TechSource,3,2025-03-07
+P019,SSD Drive,Peripherals,141,11,29,TechSource,10,2025-03-11
+P020,Microphone,Accessories,126,18,29,SupplyHub,13,2025-02-25
